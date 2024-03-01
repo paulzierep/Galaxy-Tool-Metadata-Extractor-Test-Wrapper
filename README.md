@@ -9,5 +9,5 @@ Use cases:
 Path  | Source | Use case description
 ------------- | ------------- | -------------
 tools/aldex2  | [IUC](https://github.com/galaxyproject/tools-iuc)  | Normal wrapper
-data_managers/data_manager_cat  | [IUC](https://github.com/galaxyproject/tools-iuc)  | Data Manager
+data_managers/data_manager_cat  | [IUC](https://github.com/galaxyproject/tools-iuc)  | Data Manager (not parsed !)
 tools/2d_auto_threshold  | [BMCV](https://github.com/BMCV/galaxy-image-analysis)  | wrapper with biii xref in wrapper.xml
